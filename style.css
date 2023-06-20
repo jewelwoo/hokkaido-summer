@@ -1,9 +1,0 @@
-body {font-family: 'Noto Sans KR', sans-serif; background-color: #f1fafe;}
-h1,h2,h3,h4{font-family: 'Sunflower', sans-serif; color: #0280bd;  }
-header{
-    background-image: linear-gradient( to top, #ffffffa7,#ffffff00), url(img/lavender.jpg);
-    background-size: cover;
-    background-position: center top;
-    background-attachment: fixed;
-}
-nav {background-color: #cbbbd6;}
